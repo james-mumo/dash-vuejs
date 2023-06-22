@@ -15,7 +15,7 @@
           <span class="logo font-semibold h-7 w-7 text-primary text-base"
             >K</span
           >
-          <span class="text-[15px] font-medium">KROM ADMIN</span>
+          <span class="text-[15px] font-medium">VUE ADMIN</span>
         </router-link>
       </div>
     </div>
@@ -38,7 +38,7 @@
             alt="profile picture"
             class="h-8 w-8 rounded-full mr-3"
           />
-          <span class="text-[15px] font-medium pc">onichan@otaku.com</span>
+          <span class="text-[15px] font-medium pc">mumojames98@gmail.com</span>
         </router-link>
       </div>
     </div>

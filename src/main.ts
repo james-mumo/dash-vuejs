@@ -2,7 +2,7 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import '@/assets/style/tailwind.css'
 import { router as setupRouter } from '@/router'
-import { RegisterComponents } from './plugins/components'
+import { RegisterComponents } from './plugins/Components'
 
 const init = async () => {
 	const router = await setupRouter
